@@ -15,4 +15,11 @@ Because this data set contains three key metrics (home value, days until pending
 
 ### Reference
 
-*US housing trends: Values, time & price cuts.* (2024, July 1). Kaggle. (https://www.kaggle.com/datasets/clovisdalmolinvieira/us-housing-trends-values-time-and-price-cuts?resource=download)
+*US housing trends: Values, time & price cuts.* (2024, July 1). Kaggle. https://www.kaggle.com/datasets/clovisdalmolinvieira/us-housing-trends-values-time-and-price-cuts?resource=download)
+
+![image](https://github.com/user-attachments/assets/42fc5210-ebee-4f64-b8b8-8a5448984d24)
+
+![image](https://github.com/user-attachments/assets/7a2ef608-6217-4dba-9b16-bfc0ee2c816e)
+
+![image](https://github.com/user-attachments/assets/8fb7cc80-760e-4c32-9b23-cd79b6e31a6d)
+
